@@ -6,6 +6,9 @@
 
 > **中文** — 本账号下的**部分**仓库在上传至 GitHub 之前已完成开发。此前我并不习惯使用 GitHub（或者说，还没体会到它的好），后来发现它在版本管理与展示上的便利，才决定把已有项目集中迁移至此。因此，仓库的创建时间与提交记录**不完全代表**项目的实际开发周期——历史在别处，作品在这里。
 
+> **Note ｜ 说明** — 部分项目目前设为 **Private**，是否公开全凭作者一时的心情，不定期开放。
+> **English** — Some projects are currently set to **private** and will be made public at the author's whim — they may appear from time to time.
+
 ---
 
 ### Projects ｜ 项目一览
