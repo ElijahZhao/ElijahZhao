@@ -1,5 +1,8 @@
 # 👋 Hi there
 
+**AI undergrad at HUEL (Henan University of Economics and Law), final year** — building open-source projects from data to demo.
+Focus: RAG evaluation · recommender systems · image restoration. ｜ 河南财经政法大学人工智能专业大四学生，坚持「从数据到 demo」的开源项目实践，方向：RAG 评测 · 推荐系统 · 图像修复。
+
 ## About this account ｜ 关于本账号
 
 > **English** — Some of the repositories in this account were built **before** they were uploaded to GitHub. I wasn't in the habit of using GitHub until I realized how convenient it is for version control and showcasing — so I consolidated my existing projects into one place. Repo creation dates and commit counts do **not fully** reflect the actual development timeline. The history lives elsewhere; the work lives here.
@@ -15,7 +18,7 @@
 
 | Repository | What it is |
 |---|---|
-| [MetaNutri-Ai-RAG](https://github.com/ElijahZhao/MetaNutri-Ai-RAG) | RAG research & app module of the MetaNutri ecosystem — health & nutrition Q&A with self-built retrieval pipeline and built-in evaluation \| MetaNutri 生态的 LLM 研究应用模块：自建检索管线的健康营养问答与内置评测 |
+| [MetaNutri-Ai-RAG](https://github.com/ElijahZhao/MetaNutri-Ai-RAG) | RAG research & app module of the MetaNutri ecosystem — **NutriQA**: a traceable QA benchmark on official nutrition data (200 items, 3-model empirical study, preprint on Research Square) \| MetaNutri 生态的 LLM 研究应用模块：**NutriQA** 可溯源问答基准（官方营养数据 200 题、三模型实证，论文已投 Research Square 预印本） |
 | [MetaNutri---AI-](https://github.com/ElijahZhao/MetaNutri---AI-) | 🧬A full-stack precision-nutrition platform (Next.js + FastAPI + PostgreSQL), with a separate research module that trains reproducible ML models on real open data. |
 | [MetaNutri-Ai-ppgr-predictor](https://github.com/ElijahZhao/MetaNutri-Ai-ppgr-predictor) | PPGR (2-h postprandial glucose response) prediction on CGMacros — XGBoost + leave-one-subject-out validation, external transfer to BIG IDEAs, and a live Streamlit demo. Demo half of the MetaNutri---AI- project. |
 | [pixelforge-image-restoration-](https://github.com/ElijahZhao/pixelforge-image-restoration-) | Self-trained PyTorch models for single-image super-resolution and low-light enhancement - a full pipeline from data to training, evaluation, TorchScript export, FastAPI backend and an interactive web demo. |
